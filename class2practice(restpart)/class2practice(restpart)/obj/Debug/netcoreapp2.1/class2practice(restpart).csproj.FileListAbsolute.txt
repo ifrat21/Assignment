@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice(restpart)\class2practice(restpart)\obj\Debug\netcoreapp2.1\class2practice(restpart).csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice(restpart)\class2practice(restpart)\obj\Debug\netcoreapp2.1\class2practice(restpart).csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice(restpart)\class2practice(restpart)\obj\Debug\netcoreapp2.1\class2practice(restpart).AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice(restpart)\class2practice(restpart)\obj\Debug\netcoreapp2.1\class2practice(restpart).AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice(restpart)\class2practice(restpart)\bin\Debug\netcoreapp2.1\class2practice(restpart).deps.json
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice(restpart)\class2practice(restpart)\bin\Debug\netcoreapp2.1\class2practice(restpart).runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice(restpart)\class2practice(restpart)\bin\Debug\netcoreapp2.1\class2practice(restpart).runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice(restpart)\class2practice(restpart)\bin\Debug\netcoreapp2.1\class2practice(restpart).dll
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice(restpart)\class2practice(restpart)\bin\Debug\netcoreapp2.1\class2practice(restpart).pdb
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice(restpart)\class2practice(restpart)\obj\Debug\netcoreapp2.1\class2practice(restpart).dll
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice(restpart)\class2practice(restpart)\obj\Debug\netcoreapp2.1\class2practice(restpart).pdb

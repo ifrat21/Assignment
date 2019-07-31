@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice\class2practice\bin\Debug\netcoreapp2.1\class2practice.deps.json
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice\class2practice\bin\Debug\netcoreapp2.1\class2practice.runtimeconfig.json
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice\class2practice\bin\Debug\netcoreapp2.1\class2practice.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice\class2practice\bin\Debug\netcoreapp2.1\class2practice.dll
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice\class2practice\bin\Debug\netcoreapp2.1\class2practice.pdb
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice\class2practice\obj\Debug\netcoreapp2.1\class2practice.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice\class2practice\obj\Debug\netcoreapp2.1\class2practice.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice\class2practice\obj\Debug\netcoreapp2.1\class2practice.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice\class2practice\obj\Debug\netcoreapp2.1\class2practice.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice\class2practice\obj\Debug\netcoreapp2.1\class2practice.dll
+C:\Users\LENOVO\Desktop\C# practice ( from lectures Asp.net core mvc)\class2practice\class2practice\obj\Debug\netcoreapp2.1\class2practice.pdb
